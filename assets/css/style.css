@@ -301,7 +301,7 @@ html,body{
     justify-content: center;
     align-items: center;
 	position: relative;
-	background: url(../../assets/images/home/nainital-india-2737785_1920.jpg)no-repeat;
+	background: url(../../assets/images/home/mumbai-1370023_1920.jpg)no-repeat;
 	background-size: cover;
 	background-position: center;
 	min-height: 1000px;
@@ -313,7 +313,7 @@ html,body{
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: rgba(0,122,207,0.25);
+	background: rgba(0,122,207,0.2);
 }
 
 /*about-us-content*/
